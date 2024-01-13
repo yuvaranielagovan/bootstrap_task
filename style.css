@@ -1,0 +1,65 @@
+body{
+    margin:0 auto ;
+    padding: 0;
+}
+.home{
+    color: #dd601d;
+}
+.foncolor{
+    color: white;
+}
+.bg_image{
+    background-image: url('cover.png');
+    height: 425px;
+}
+.center{
+    text-align: center;
+}
+.margin{
+    margin-right: 10px;
+}
+.font{
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.font-size{
+    font-size: 25px;
+    font-family:  sans-serif;
+}
+.backbg{
+    background-color: black;
+}
+.sign{
+    background: #dd601d;
+    color: white;
+}
+.fon{
+   font-size: 55px;
+}
+.color_bg{
+    color: #dd601d;
+    font-weight: 700;
+   font-style: normal;
+   font-size: 24px;
+}
+.bg_card{
+    background-color: black
+    
+}
+.bg_chevron{
+    background: #dd601d;
+}
+.black{
+    color: black;
+}
+.size{
+    font-size: 20px;
+    font-style: normal;
+}
+.we{
+    font-style: normal;
+    font-weight: bold;
+}
+
+  
